@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://lh5.googleusercontent.com/NOpfAdi09rlaTu2xFvfNAvUNE2bW8CtCeG_mtk74mBqTOms8v_TpIEXtxQ74qxLWfsLk8zp-HjD6GUda0b5jXljtX1-lr-pHLKzV5LHmzw__Wj_Swm2OXn-Ryc-PmaFIXg=w1280">
  <source media="(prefers-color-scheme: light)" srcset="https://lh5.googleusercontent.com/NOpfAdi09rlaTu2xFvfNAvUNE2bW8CtCeG_mtk74mBqTOms8v_TpIEXtxQ74qxLWfsLk8zp-HjD6GUda0b5jXljtX1-lr-pHLKzV5LHmzw__Wj_Swm2OXn-Ryc-PmaFIXg=w1280">
- <img alt="YOUR-ALT-TEXT" src="https://lh5.googleusercontent.com/NOpfAdi09rlaTu2xFvfNAvUNE2bW8CtCeG_mtk74mBqTOms8v_TpIEXtxQ74qxLWfsLk8zp-HjD6GUda0b5jXljtX1-lr-pHLKzV5LHmzw__Wj_Swm2OXn-Ryc-PmaFIXg=w1280">
+ <img alt="An outdated image of me!" src="https://lh5.googleusercontent.com/NOpfAdi09rlaTu2xFvfNAvUNE2bW8CtCeG_mtk74mBqTOms8v_TpIEXtxQ74qxLWfsLk8zp-HjD6GUda0b5jXljtX1-lr-pHLKzV5LHmzw__Wj_Swm2OXn-Ryc-PmaFIXg=w1280">
 </picture>
 
 <!--
