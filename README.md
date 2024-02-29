@@ -1,9 +1,9 @@
 ### Hello world!
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://lh5.googleusercontent.com/F9lYz-XaPv_Fj2e6DLihvgWxlbmrdmghcZi7NxFEcv7qpblHG4ftcUciXsLkAMO_ggXTJro0xoUBtMBvtQStOs9AW7yMfTosvIojAPDCFsPyooIKbmPsw6xP7fuSNiGe1A=w1280">
- <source media="(prefers-color-scheme: light)" srcset="https://lh5.googleusercontent.com/F9lYz-XaPv_Fj2e6DLihvgWxlbmrdmghcZi7NxFEcv7qpblHG4ftcUciXsLkAMO_ggXTJro0xoUBtMBvtQStOs9AW7yMfTosvIojAPDCFsPyooIKbmPsw6xP7fuSNiGe1A=w1280">
- <img alt="Teaching astrostatistics in a Summer School!" src="https://lh5.googleusercontent.com/F9lYz-XaPv_Fj2e6DLihvgWxlbmrdmghcZi7NxFEcv7qpblHG4ftcUciXsLkAMO_ggXTJro0xoUBtMBvtQStOs9AW7yMfTosvIojAPDCFsPyooIKbmPsw6xP7fuSNiGe1A=w1280">
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.usercontent.google.com/download?id=1ESTuATVTqkh2JYaBrhsLzoFYM_dikUSn">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.usercontent.google.com/download?id=1ESTuATVTqkh2JYaBrhsLzoFYM_dikUSn">
+ <img alt="Teaching astrostatistics in a Summer School!" src="https://drive.usercontent.google.com/download?id=1ESTuATVTqkh2JYaBrhsLzoFYM_dikUSn">
 </picture>
 
 <!--
