@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://lh5.googleusercontent.com/F9lYz-XaPv_Fj2e6DLihvgWxlbmrdmghcZi7NxFEcv7qpblHG4ftcUciXsLkAMO_ggXTJro0xoUBtMBvtQStOs9AW7yMfTosvIojAPDCFsPyooIKbmPsw6xP7fuSNiGe1A=w1280">
